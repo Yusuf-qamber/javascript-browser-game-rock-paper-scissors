@@ -1,6 +1,6 @@
 # ✊✋✌️ Rock, Paper, Scissors
 
-![Game Screenshot](./assets/screenshot.png)
+![Game Screenshot](./assets/Screen.png)
 
 ## 🕹️ Description
 
@@ -10,11 +10,11 @@ The game compares the choices and shows who wins. First to 5 points wins the mat
 
 ## 🚀 Getting Started
 
-👉 **Play it here:** [http://localhost:5500/](http://localhost:5500/)
+👉 **Play it here:** [https://yusuf-qamber.github.io/javascript-browser-game-rock-paper-scissors/](https://yusuf-qamber.github.io/javascript-browser-game-rock-paper-scissors/)
 
 👉 **Planning Materials:**
 - [User Stories](./planning/user-stories.md)
-- ![Wireframe](C:\Images\Screen.png)
+- [Wireframe](./planning/Wireframe.png)
 
 ### How to Play
 1. Open the link to the game.

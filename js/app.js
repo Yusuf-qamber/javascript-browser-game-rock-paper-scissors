@@ -50,7 +50,7 @@ else if(playerChoice==="paper"&&computerChoice==="rock")
 else if(playerChoice==="scissors"&&computerChoice==="paper")
     msg="you wins!"
 else if(playerChoice===computerChoice)
-    msg="you Tie!"
+    msg=" Tie!"
   else 
   msg="you lose!"
 
