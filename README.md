@@ -10,11 +10,11 @@ The game compares the choices and shows who wins. First to 5 points wins the mat
 
 ## 🚀 Getting Started
 
-👉 **Play it here:** [https://your-deployment-link.com](https://your-deployment-link.com)
+👉 **Play it here:** [http://localhost:5500/](http://localhost:5500/)
 
 👉 **Planning Materials:**
 - [User Stories](./planning/user-stories.md)
-- [Wireframe](./planning/wireframe.png)
+- [Wireframe]("C:\Users\yousi\OneDrive\الصور\لقطات الشاشة\Screen.png")
 
 ### How to Play
 1. Open the link to the game.
