@@ -14,7 +14,7 @@ The game compares the choices and shows who wins. First to 5 points wins the mat
 
 👉 **Planning Materials:**
 - [User Stories](./planning/user-stories.md)
-- [Wireframe]("C:\Users\yousi\OneDrive\الصور\لقطات الشاشة\Screen.png")
+- ![Wireframe](C:\Images\Screen.png)
 
 ### How to Play
 1. Open the link to the game.
